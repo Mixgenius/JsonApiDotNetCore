@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using JsonApiDotNetCore.Internal;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.EntityFrameworkCore.Internal;
